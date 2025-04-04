@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+matplotlib
+
+
+# Copy paste the following in your terminal to install the required packages
+pip install yfinance pandas numpy matplotlib
